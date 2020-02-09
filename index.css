@@ -3,9 +3,9 @@
     font-family: 'Shojumaru', cursive;
 }
 
-body {
-    background: url("/Pics/Flag_of_Japan.svg") no-repeat;
-    background-size: 1500px;
+#image {
+    display: block;
+
 }
 
 h1 {
