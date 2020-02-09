@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Shojumaru', cursive;
+}
+
+body {
+    background-image: url("/Pics/Flag_of_Japan.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center
+}
+
+h3 {
+    text-align: center;
+    padding-top: 280px;
+    font-size: 2em;
+}
