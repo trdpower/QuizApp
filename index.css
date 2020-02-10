@@ -14,22 +14,26 @@ h1 {
     left: 150px;
 }
 
-h2 {
+.start-button {
     position: absolute;
-    top: 260px;
-    left: 330px;
-    width: 100%;
+    font-size: 40px;
+    top: 290px;
+    left: 230px;
+    height: 6%;
+    width: 30%;
+    
 }
 
-h4 {
+.score-button {
     position: absolute;
     top: 400px;
-    left: 350px;
-    width: 100%;
+    left: 360px;
+    height: 5%;
+    width: 10%;
 }
 
 
-button: hover {
+.btn:hover {
     cursor: pointer;
 }
 
@@ -39,10 +43,3 @@ button: hover {
     left: 340px;
     width: 100%;
 }
-
-/* {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto;
-}*/
